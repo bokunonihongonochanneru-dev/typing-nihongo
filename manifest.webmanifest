@@ -1,0 +1,35 @@
+{
+ "name": "Typing Nihongo N5-N1",
+ "short_name": "Typing Nihongo",
+ "description": "Practica tecleo en japonés: hiragana, katakana, romaji y oraciones de N5 a N1 con furigana, traducción y lectura en voz alta.",
+ "lang": "es",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#faf9f6",
+ "theme_color": "#c0392b",
+ "categories": [
+  "education"
+ ],
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
